@@ -1,0 +1,1 @@
+document.getElementById('contador').innerText = 5;
